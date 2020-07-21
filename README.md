@@ -1,6 +1,7 @@
 ### proddec-python-july-2020
 
-> Here is the schedule we have followed through the entire session. Respective days have **hyperlinks** enabled for your easy access. **Happy Coding** :wink:
+> Here is the schedule we have followed through the entire session. Respective days have **hyperlinks** enabled for your easy access. 
+> **Happy Coding** :wink:
 
  # :point_right:[Day 1: 16th July 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-1/day-1.ipynb)
 
@@ -48,7 +49,7 @@
 3. Relative path and Absolute path
 4. Import statement
 
-# Day 6: 21 July, 2020
+# :point_right:[Day 6: 21 July, 2020]
 
 1. Pass keyword
 2. Exception handling
