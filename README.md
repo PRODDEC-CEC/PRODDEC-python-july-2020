@@ -1,7 +1,7 @@
 ### proddec-python-july-2020
+![](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/quote.jpg)
 
-> Here is the schedule we have followed through the entire session. Respective days have **hyperlinks** enabled for your easy access. 
->[Quote](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/quote.jpg)
+> Here is the schedule we have followed through the entire session. Respective days have **hyperlinks** enabled for your easy access.
 > **Happy Coding** :wink:
 
  # :point_right:[Day 1: 16th July 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-1/day-1.ipynb)
