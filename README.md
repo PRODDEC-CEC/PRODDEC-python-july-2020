@@ -2,7 +2,7 @@
 
 > Here is the schedule we have followed through the entire session. Respective days have hyperlinks enabled for your easy access. Happy Coding
 
-# Day 1: 16th July 2020
+ # [Day 1: 16th July 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-1/day-1.ipynb)
 
 1. Programming  languages intro:
    - Machine language.
@@ -13,7 +13,7 @@
 5. Quadratic equation solving.
 6. Taking user input
 
-# Day 2: 17 July, 2020
+# [Day 2: 17 July, 2020]()
 
 1. Running Python in Command Prompt
 2. Comments
