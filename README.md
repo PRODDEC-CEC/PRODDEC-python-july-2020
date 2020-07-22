@@ -43,7 +43,7 @@
 4. For loop
 5. Dictionary
 
-# :point_right:[Day 5: 20 July, 2020]
+# :point_right:[Day 5: 20 July, 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-5/day-5.ipynb)
 
 1. Return statements (in functions)
 2. List comprehension
