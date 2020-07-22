@@ -24,7 +24,7 @@
 5. String operation
 6. If else and elif statements
 
-# :point_right:[Day 3: 18 July, 2020]
+# :point_right:[Day 3: 18 July, 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-3/day-3.ipynb)
 
 1. Nested if else statement
 2. String methods
@@ -35,7 +35,7 @@
 7. Tuple
 8. Functions
 
-# :point_right:[Day 4: 19 July, 2020]
+# :point_right:[Day 4: 19 July, 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-4/day-4.ipynb)
 
 1. Recursion.
 2. Loops
