@@ -1,5 +1,5 @@
 
-![](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/quote.jpg)
+<img src="/images/quote.jpg" />
 
 > **Here is the schedule we have followed through the entire session**. Respective days have **hyperlinks** enabled for your easy access.
 > **Happy Coding** :wink:
