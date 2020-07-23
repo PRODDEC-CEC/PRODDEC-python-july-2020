@@ -50,7 +50,7 @@
 3. Relative path and Absolute path
 4. Import statement
 
-# :point_right:[Day 6: 21 July, 2020]
+# :point_right:[Day 6: 21 July, 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-6/day-6.ipynb)
 
 1. Pass keyword
 2. Exception handling
