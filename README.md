@@ -4,7 +4,7 @@
 > **Here is the schedule we have followed through the entire session**. Respective days have **hyperlinks** enabled for your easy access.
 > **Happy Coding** :wink:
 
- # :point_right:[Day 1: 16th July 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-1/day-1.ipynb)
+# :point_right:[Day 1: 16th July 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-1/day-1.ipynb)
 
 1. Programming languages intro:
    - Machine language.
@@ -60,3 +60,30 @@
 6. Adding our own modules in Python
 7. Installing Third Party Modules
 8. Some builtin modules
+
+# :point_right:[Day 7: 22 July, 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-7/day-7.ipynb)
+
+1. Pass keyword
+2. Exception handling
+3. Taking multiple input
+4. Dictionary
+5. File operations
+6. Adding our own modules in Python
+7. Installing Third Party Modules
+8. Some builtin modules
+
+# :point_right:[Day 8: 23 July, 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-8/day-8.ipynb)
+
+1. Image reading
+2. Image color conversion
+3. Image showing
+4. Playing a video using opencv
+5. Image from video
+
+# :point_right:[Day 9: 24 July, 2020](https://github.com/PRODDEC-CEC/proddec-python-july-2020/blob/master/day-9/day-9.ipynb)
+
+1. Image resizing
+2. Getting images from a video
+3. Getting images from camera.
+4. Getting video from camera.
+5. Applying some processing on image
